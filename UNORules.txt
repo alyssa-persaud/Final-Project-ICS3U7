@@ -1,0 +1,1 @@
+Each player begins with 7 cards as the rest of the deck is laid face down and one card is placed face up to start the game, first person to lose all their cards wins. Cards can be played if they have the same number or colour, if player has no playable cards they must click on a card in their hand to draw a card.
